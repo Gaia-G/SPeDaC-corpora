@@ -4,7 +4,7 @@ Here we uploaded the two SPeDaC corpora. The first dataset (SPeDaC1) concerns se
 
 <img width="279" alt="corpora" src="https://user-images.githubusercontent.com/65297512/171263023-81cfaa88-2689-426c-8ec2-e5fc02c926fa.PNG">
 
-In SPeDaC2 you can find also a fine-grained sub-dataset of 5572 sentences labeled with the 74 personal data categories.
+In SPeDaC2 you can find also a fine-grained dataset of 5572 sentences labeled with the 74 personal data categories.
 
 The annotations are sentence-level and in WebAnno TSV v3.3 format.
 
