@@ -8,3 +8,6 @@ In SPeDaC2 you can find also a fine-grained dataset of 5562 sentences labeled wi
 
 The annotations are sentence-level and in WebAnno TSV v3.3 format.
 
+The dataset could be shared only subject to a declaration of the research purposes in order to guarantee an ethical use.
+Please, contact the authors: 
+
