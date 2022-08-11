@@ -2,7 +2,7 @@
 
 To download the datasets you have to sign an agreement of ethical research purposes. You can find the agreement doc in this repository.
 
-Once the corresponding license agreement is signed, you have to send it to [THE AUTHORS] at: [EMAIL OF THE AUTHORS].
+Once the corresponding license agreement is signed, you have to send it to the authors at: gaia.gambarelli2@unibo.it.
 
 Subject: [SPeDaC download]
 
@@ -25,7 +25,7 @@ In SPeDaC2 you can find also a fine-grained dataset of 5562 sentences labeled wi
 
 The annotations are sentence-level and in WebAnno TSV v3.3 format.
 
-The resource has been evaluated in: Author, 1, Author, 2, Author, 3, [...]: Is Your Model Sensitive? SPeDaC: A New Benchmark for Detecting and Classifying Sensitive Personal Data, TACL, submitted 
+The resource has been evaluated in: Gaia Gambarelli, Aldo Gangemi, Rocco Tripodi: Is Your Model Sensitive? SPeDaC: A New Benchmark for Detecting and Classifying Sensitive Personal Data, ArXiv
 
 Please, use the reference above to cite the work.
 
