@@ -25,7 +25,7 @@ In SPeDaC2 you can find also a fine-grained dataset of 5562 sentences labeled wi
 
 The annotations are sentence-level and in WebAnno TSV v3.3 format.
 
-The resource has been evaluated in: Gaia Gambarelli, Aldo Gangemi, Rocco Tripodi: Is Your Model Sensitive? SPeDaC: A New Benchmark for Detecting and Classifying Sensitive Personal Data, ArXiv
+The resource has been evaluated in: G. Gambarelli, A. Gangemi and R. Tripodi, "Is Your Model Sensitive? SPEDAC: A New Resource for the Automatic Classification of Sensitive Personal Data," in IEEE Access, vol. 11, pp. 10864-10880, 2023, doi: 10.1109/ACCESS.2023.3240089.
 
 Please, use the reference above to cite the work.
 
